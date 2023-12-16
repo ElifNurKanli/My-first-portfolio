@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;1,300&display=swap");
+
+.custom-font {
+  font-family: "Lato", sans-serif;
+}
+
+body {
+  background-color: #201f1f;
+}
